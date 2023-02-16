@@ -8,6 +8,7 @@ namespace Friendship
         {
             Console.WriteLine("Hello friend <3");
 Console.WriteLine("Hello papapappapapa");
+Console.WriteLine("How are you?")
         }
     }
 }
