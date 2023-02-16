@@ -10,6 +10,7 @@ namespace Friendship
 Console.WriteLine("Hello papapappapapa");
 Console.WriteLine("How are you?");
 Console.WriteLine("you are beautiful and cute. I love u");
+Console.WriteLine("Oh, Alice, you embarrassed me! Have a good day!");
         }
     }
 }
