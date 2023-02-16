@@ -7,6 +7,7 @@ namespace Friendship
         static void Main(string[] args)
         {
             Console.WriteLine("Hello friend <3");
+Console.WriteLine("Hello papapappapapa");
         }
     }
 }
